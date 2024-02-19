@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+    <meta>
+        <title>TPC1: Exemplo</title>
+        <date>2024-02-06</date>
+        <author>
+            <id>a100066</id>
+            <nome>Ricardo Miguel Queirós de Jesus<nome>
+        </author>
+        <uc>
+            <sigla>EW2024</sigla>
+            <nome>Engenharia Web</nome>
+        </uc>
+    </meta>
+    <resumo>
+        <p>Neste TPC, tem de se utilizar material fornecido de um ficheiro zip, com informação sobre várias ruas de Braga, tendo uma descrição de cada rua, imagens ilustrativas e imagens reais de cada rua.</p>
+        <p>O objetivo deste TPC é basicamente, gerar um índice de ruas, junto com uma página para cada uma delas. Ao clicar em cada rua, devemos ser direcionados para a página de cada rua.</p>
+    </resumo>
+    <resultado>
+        <resultado>Criação de páginas HTML geradas automaticamente por um script em python(script1.py) através de ficheiros XML</resultado>
+    </resultado>
+</doc>
